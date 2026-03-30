@@ -98,11 +98,7 @@ ID   | Title                            | Category           | Price      | Rati
 
 ### Step 3 — Search by Category (Laptops):
 
-Makes a GET request to `https://dummyjson.com/products/category/laptops` and prints each laptop's name and price:
-
-```
-Name: MacBook Pro  |  Price: $1749.99
-```
+Makes a GET request to `https://dummyjson.com/products/category/laptops` and prints each laptop's name and price
 
 ### Step 4 — POST Request (Simulated):
 
